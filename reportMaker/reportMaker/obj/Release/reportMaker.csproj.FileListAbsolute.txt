@@ -1,0 +1,10 @@
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\bin\Release\reportMaker.exe.config
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Release\reportMaker.csproj.ResolveComReference.cache
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\bin\Release\reportMaker.exe
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\bin\Release\reportMaker.pdb
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Release\reportMaker.Form1.resources
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Release\reportMaker.Properties.Resources.resources
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Release\reportMaker.csproj.GenerateResource.Cache
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Release\reportMaker.exe
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Release\reportMaker.pdb
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Release\reportMaker.csprojResolveAssemblyReference.cache

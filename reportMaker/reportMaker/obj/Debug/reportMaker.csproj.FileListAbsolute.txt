@@ -1,0 +1,9 @@
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\bin\Debug\reportMaker.exe.config
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\obj\Debug\reportMaker.Form1.resources
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\obj\Debug\reportMaker.Properties.Resources.resources
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\obj\Debug\reportMaker.csproj.GenerateResource.Cache
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\bin\Debug\reportMaker.exe
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\bin\Debug\reportMaker.pdb
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\obj\Debug\reportMaker.exe
+c:\users\etas965.ebaykorea\documents\visual studio 2012\Projects\reportMaker\reportMaker\obj\Debug\reportMaker.pdb
+C:\Users\etas965.EBAYKOREA\Documents\Visual Studio 2012\Projects\reportMaker\reportMaker\obj\Debug\reportMaker.csproj.ResolveComReference.cache
